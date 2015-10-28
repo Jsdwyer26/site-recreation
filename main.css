@@ -1,1 +1,41 @@
 /* Add custom styles here */
+/*.page-header {
+	padding: 0px;
+	background-color: black;
+}*/
+
+/*.masthead {
+	background-position: 5px;
+}*/
+.page-header {
+	display: block-inline;
+}
+.image {
+	background-image: url("https://s3.amazonaws.com/ga-core/core/core-static/metros/default-background.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 800px;
+}
+
+.row2{
+	display: block;
+}
+.button {
+	background-color: red;
+	position: center;
+	display: inline;
+}
+
+
+/*image {
+	background-image: url();
+}*/
+.btnGA {
+	background-color: red;
+	padding: 10px;
+}
+.wrapper {
+	padding:20px;
+	background-color: black;
+	color: white;
+}
